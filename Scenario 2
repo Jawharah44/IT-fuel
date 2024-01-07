@@ -1,0 +1,31 @@
+Scenario 2:
+
+You’re doing systems administration work for W.D. Widgets. Evaluate their current IT infrastructure needs and limitations, then provide at least five process improvements and rationale behind those improvements. Please write a 200-400 word process review for this consultation. Remember, there’s no right or wrong answer, but make sure to provide your reasoning.
+
+Sales Company:
+
+W.D. Widgets is a small company that sells widgets. They’re mostly made up of salespeople who work with lots of clients. You’ve taken over as the sole IT person for this company of 80-100 people.
+
+When HR tells you to provision a machine for a new employee, you order the hardware directly from a business vendor. You keep one or two machines in stock, in case of emergency. The users receive a username that you generate for them. You then give them an orientation on how to login when they start. You currently manage all of your machines using Windows Active Directory. The company uses only Windows computers. When a new computer is provisioned, you have to install lots of sales-specific applications manually onto every machine. This takes a few hours of your time for each machine. When someone has an IT-related request, they email you directly to help them.
+
+Almost all software is kept in-house, meaning that you’re responsible for the email server, local machine software, and instant messenger. None of the company’s services are kept on the cloud.
+
+Customer data is stored on a single file server. When a new salesperson starts, you also map this file server onto their local machine, so that they can access it like a directory. Whoever creates a folder on this server owns that folder and everything in it. There are no backups to this critical customer data. If a user deletes something, it may be lost for everyone.
+
+The company generates a lot of revenue and is rapidly growing. They’re expecting to hire hundreds of new employees in the next year or so, and you may not be able to scale your operations at the pace you’re working.
+
+W.D. Widgets has some IT problems that can slow us down and make it tough to grow. Here's how we can fix things:
+
+1. Get Computers Ready Faster:
+   - Instead of ordering one computer at a time, let's set up a system that gets them ready automatically. This saves time when new employees join, and they can start working sooner.
+
+2. Install Sales Apps Easily:
+   - Right now, putting special sales apps on each computer takes forever. We should use a system that installs these apps all at once. It's quicker and makes sure everyone has the same tools.
+
+3. Use the Cloud for Important Stuff:
+   -.We should move important things like emails and files to the cloud. It's easier to access, and we don't have to worry about servers acting up. This is super helpful as the company gets bigger.
+
+4. Keep Customer Data Safe
+   -The  customer data is in one place, and if something goes wrong, we might lose it all. Let's set up a plan to regularly back up our data. Also, be careful about who can access what to avoid mix-ups.
+
+By making these changes, we can save time, keep our data safe, and be ready for the big growth coming our way.
