@@ -1,0 +1,29 @@
+You’re doing systems administration work for Network Funtime Company. Evaluate their current IT infrastructure needs and limitations, then provide at least five process improvements and rationale behind those improvements. Write a 200-400 word process review for this consultation. Remember, there’s no right or wrong answer, but make sure to provide your reasoning.
+
+Software Company:
+
+Network Funtime Company is a small company that builds open-source software. The company is made up software engineers, a few designers, one person in Human Resources (HR), and a small sales team. Altogether, there are 100 employees. They recently hired you as a system administrator to come in and become their IT department.
+
+When a new person is hired on, the HR person purchases a laptop for them to do their work. The HR representative is unfamiliar with what type of hardware is out there; if a new employee requests a laptop, the HR person will purchase the cheapest option for a laptop online. Because of this, almost everyone has a different laptop model. The company doesn’t have too much revenue to spend, so they don’t order laptops until someone gets hired at the company. This leads to a few days of wait time from when someone starts to when they can actually work on a laptop.
+
+The company doesn’t label their computers with anything, so if a computer is missing or stolen, there’s no way to audit it. There’s no inventory system to keep track of what’s currently in the fleet.
+
+Once a computer is purchased, the HR person hands it to the new employee to set up. Software engineers that use Linux have to find a USB drive and add their preferred distribution to the laptop. Anytime someone needs something from HR -- whether it’s office related or tech related -- they email the HR representative directly.
+
+When a new employee gets a machine, they’re given logins to use cloud services. They get a personal orientation with HR to make sure they can login. This requires the HR person to block off a few hours for every new employee. If an employee forgets the login to their machine, they have no way to retrieve a password and they have to reimagine their machine. Employees don’t have a strict password requirement to set for their computers.
+
+The company currently has many of their services in the cloud, such as email, word processors, spreadsheet applications, etc. They also use the application, Slack, for instant communication.
+
+After checking how Network Funtime Company's computer stuff works, there are a few problems. First, everyone has different types of laptops, and that makes it hard to keep them working well. It takes a long time to get new laptops when someone new starts, and that means they can't start working right away. Also, we don't have labels on our computers or a list of what we have, so it's tricky to know if any are missing. We mainly use email to ask HR for things, and setting up the computer for people who use Linux is a bit complicated, which is not great.
+To address these challenges, here are five recommended process improvements:
+	1.	Same Laptops for Everyone:
+	•	Get the same type of laptops for everyone. It makes things easier to manage and helps save money when buying in bulk.
+	2.	Put Labels on Computers and Keep Track of Them:
+	•	Stick labels on computers and keep a list of what we have. This helps find missing ones and makes it easier to know what’s going on.
+	3.	Make Setting Up New Computers Easier:
+	•	Make a system that sets up new computers automatically. This saves time and makes sure everyone has the same stuff on their laptops.
+	4.	Better Passwords and Rules:
+	•	Have stronger passwords and rules for keeping things safe. This helps keep our information secure and makes it easier to get back into our accounts if we forget our passwords.
+	5.	One Place for Tech Help:
+	•	Use one place for getting help with tech problems. This makes it easier to ask for help, and everyone knows where to go when they have issues.
+These process improvements aim to enhance efficiency, security, and user experience within Network Funtime Company’s IT infrastructure. 
